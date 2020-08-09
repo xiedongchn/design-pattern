@@ -1,6 +1,6 @@
-package com.xd.designpattern.factory.simplefactory;
+package com.xd.designpattern.factorypattern.simplefactory;
 
-import com.xd.designpattern.factory.util.StringUtil;
+import com.xd.designpattern.util.StringUtil;
 
 /**
  * 简单的工厂模式

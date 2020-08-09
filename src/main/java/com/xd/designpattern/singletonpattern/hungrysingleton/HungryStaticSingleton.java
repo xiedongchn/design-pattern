@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.singletonpattern;
+package com.xd.designpattern.singletonpattern.hungrysingleton;
 
 /**
  * Description

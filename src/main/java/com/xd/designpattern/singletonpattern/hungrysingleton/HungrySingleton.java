@@ -1,8 +1,8 @@
-package com.xd.designpattern.factory.singletonpattern;
+package com.xd.designpattern.singletonpattern.hungrysingleton;
 
 /**
  * 饿汉式单例，在类加载的时候就创建实例
- * 
+ *
  *
  * @author xd
  * Created on 八月/9 23:56

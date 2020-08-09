@@ -1,8 +1,8 @@
-package com.xd.designpattern.factory.factorymethod;
+package com.xd.designpattern.factorypattern.factorymethod;
 
-import com.xd.designpattern.factory.abstractfactory.AbstractCourseFactory;
-import com.xd.designpattern.factory.abstractfactory.INote;
-import com.xd.designpattern.factory.abstractfactory.IVideo;
+import com.xd.designpattern.factorypattern.abstractfactory.AbstractCourseFactory;
+import com.xd.designpattern.factorypattern.abstractfactory.INote;
+import com.xd.designpattern.factorypattern.abstractfactory.IVideo;
 
 /**
  * JavaCourse工厂

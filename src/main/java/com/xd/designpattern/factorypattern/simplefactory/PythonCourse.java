@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.simplefactory;
+package com.xd.designpattern.factorypattern.simplefactory;
 
 /**
  * Python课程

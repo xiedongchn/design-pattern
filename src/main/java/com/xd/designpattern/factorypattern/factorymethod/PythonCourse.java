@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.factorymethod;
+package com.xd.designpattern.factorypattern.factorymethod;
 
 /**
  * Python课程

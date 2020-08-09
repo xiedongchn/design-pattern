@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.util;
+package com.xd.designpattern.util;
 
 import java.util.Objects;
 

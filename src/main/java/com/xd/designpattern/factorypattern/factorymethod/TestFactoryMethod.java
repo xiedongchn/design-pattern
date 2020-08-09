@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.factorymethod;
+package com.xd.designpattern.factorypattern.factorymethod;
 
 import org.junit.Test;
 

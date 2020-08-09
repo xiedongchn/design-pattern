@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.abstractfactory;
+package com.xd.designpattern.factorypattern.abstractfactory;
 
 /**
  * Description

@@ -1,7 +1,6 @@
-package com.xd.designpattern.factory.abstractfactory;
+package com.xd.designpattern.factorypattern.abstractfactory;
 
-import com.xd.designpattern.factory.factorymethod.ICourseFactory;
-import com.xd.designpattern.factory.factorymethod.JavaCourseFactory;
+import com.xd.designpattern.factorypattern.factorymethod.JavaCourseFactory;
 import org.junit.Test;
 
 /**

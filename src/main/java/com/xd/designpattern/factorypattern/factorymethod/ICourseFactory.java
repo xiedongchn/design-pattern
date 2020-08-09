@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.factorymethod;
+package com.xd.designpattern.factorypattern.factorymethod;
 
 /**
  * 工厂方法模式接口

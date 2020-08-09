@@ -1,4 +1,4 @@
-package com.xd.designpattern.factory.lazysingleton;
+package com.xd.designpattern.singletonpattern.lazysingleton;
 
 /**
  * Description
