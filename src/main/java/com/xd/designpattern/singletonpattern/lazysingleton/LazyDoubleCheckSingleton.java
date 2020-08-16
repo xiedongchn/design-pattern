@@ -27,7 +27,4 @@ public class LazyDoubleCheckSingleton {
         return lazySimpleSingleton;
     }
 
-    public void printInstanceInfo() {
-        System.out.println("InstanceInfo" + lazySimpleSingleton);
-    }
 }
